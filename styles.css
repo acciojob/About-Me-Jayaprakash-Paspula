@@ -1,7 +1,7 @@
 .page{
 	background-color:white;
-	height:650px;
-	width:1000px;
+	height:550px;
+	width:10000px;
 	box-shadow:6px gray;
 	position:absolute;
 	box-shadow:1px 1px 1px 1px lightgray;
@@ -45,9 +45,13 @@
 	width:30px;
 }
 h1{
-	display:inline-block;
 	text-decoration:underline blue;
+	display:inline-block;
+}
+.second-page{
+	display:inline-block;
 	position:absolute;
+	vertical-align:middle;
 }
 
 
